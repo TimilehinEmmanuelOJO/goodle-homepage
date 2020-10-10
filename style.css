@@ -1,0 +1,125 @@
+
+
+<style>
+
+    #header {display:block;}
+
+    .nav-link1{
+        font-size: 20px;
+        position: relative;
+        left: 77%;
+    }
+
+    .nav-link2{
+        font-size: 20px;
+        position: relative;
+        left: 80%;
+    }
+    .avater{
+        border-radius: 100px;
+        background: url(https://lh3.googleusercontent.com/ogw/ADGmqu94K7r4SldmCaIWDtF0mbfhF5NqFEl_ESc8SYLE=s32-c-mo);
+        width: 30px;
+        height: 30px;
+        position: relative;
+        left: 96%;
+        float: left;
+        }
+    .icon {
+        border-radius: 20px;
+        width: 100;
+        height: 100;
+        background-color: red;
+        background: url(https://scontent.flos1-1.fna.fbcdn.net/v/t1.0-9/121082291_3198202906956907_2731348305312637102_n.jpg?_nc_cat=107&_nc_sid=730e14&_nc_eui2=AeG0eLODSgOUFvqiK8rJHgWRp6RULFa44cmnpFQsVrjhyR5OnchzMZxeTdl3HEXJOTopSDtECBf2EsHeHzwseqZn&_nc_ohc=-gr_CmJG1XEAX-4gmj5&_nc_ht=scontent.flos1-1.fna&oh=f7d7d344199ca52c4a35b3254fe2cd91&oe=5FA2B44A);
+    }
+
+
+    #img{
+        width: 22%;
+        position: absolute;
+        left: 40%;
+        top: 25%;
+    }
+    #input{
+        width: 600px;
+        height: 40px;
+        border-style: solid;
+        border-radius: 125px;
+        border-width: 1px;
+        border-color: gray;
+        background-color: white;
+        position: absolute;
+        top: 45%;
+        left: 30%;
+        text-align: center; font-size: 20px;
+    }
+
+    #sub{
+        position: absolute;
+        top: 55%;
+        left: 39%;
+        background-color: #f2f2f2;
+        width: 180px;
+        height: 40px;
+        border-style: none;
+    }
+
+    #sub2{
+        position: absolute;
+        top: 55%;
+        left: 54%;
+        background-color: #f2f2f2;
+        width: 180px;
+        height: 40px;
+        border-style: none;
+    }
+
+    #stren{
+        position: absolute;
+        top: 65%;
+        left:35%;
+    }
+    #check{
+        position: absolute;
+        top: 65%;
+        left:52%;
+    }
+
+    #goo{
+
+        position: absolute;
+        top: 70%;
+        left: 38%;
+    }
+
+    #hau{
+        position: absolute;
+        top: 70%;
+        left: 47.5%;
+    }
+    #ibo{
+        position: absolute;
+        top: 70%;
+        left: 51.5%;
+    }
+    #yor{
+        position: absolute;
+        top: 70%;
+        left: 54.5%;
+    }
+    #nig{
+        position: absolute;
+        top: 70%;
+        left: 61%;
+    }
+    #ni{position: absolute; top: 92%;left: 1%;}
+    #pri{position: absolute; top: 98%;left: 80%;}
+    #terms{position: absolute; top: 98%;left: 85%;}
+    #set{position: absolute; top: 98%;left: 90%;}
+    #adv{position: absolute; top: 98%;left: 1%;}
+    #bus{position: absolute; top: 98%;left: 8%;}
+    #abt{position: absolute; top: 98%;left: 14%;}
+    #how{position: absolute; top: 98%;left: 18%;}
+    
+
+</style>
+
